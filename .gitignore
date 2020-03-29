@@ -1,0 +1,13 @@
+.idea/
+venv/
+env/
+*.pyc
+__pycache__
+*.log
+*.csv
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
+
